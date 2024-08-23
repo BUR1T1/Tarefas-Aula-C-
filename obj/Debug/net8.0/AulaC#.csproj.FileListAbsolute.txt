@@ -12,3 +12,4 @@ C:\Users\Public\Downloads\AulaC#\obj\Debug\net8.0\refint\AulaC#.dll
 C:\Users\Public\Downloads\AulaC#\obj\Debug\net8.0\AulaC#.pdb
 C:\Users\Public\Downloads\AulaC#\obj\Debug\net8.0\AulaC#.genruntimeconfig.cache
 C:\Users\Public\Downloads\AulaC#\obj\Debug\net8.0\ref\AulaC#.dll
+C:\Users\Public\Downloads\AulaC#\obj\Debug\net8.0\AulaC#.sourcelink.json

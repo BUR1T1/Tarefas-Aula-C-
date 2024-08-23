@@ -25,8 +25,20 @@ class Program{
                              //Ex07 ex07 = new Ex07();
                              //ex07.Executar();
 
-                             Ex08 ex08 = new Ex08();
-                             ex08.Executar();
+                                 //Ex08 ex08 = new Ex08();
+                                 //ex08.Executar();
+
+                                     //Ex09 ex09 = new Ex09();
+                                     //ex09.Executar();
+
+                                         //Ex10 ex10= new Ex10();  
+                                         //ex10.Executar();
+
+                                             //Ex11 ex11= new Ex11();
+                                             //ex11.Executar();
+
+                                                 Ex12 ex12= new Ex12();
+                                                 ex12.Executar();
                            
 
 
