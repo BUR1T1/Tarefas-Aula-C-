@@ -37,8 +37,14 @@ class Program{
                                              //Ex11 ex11= new Ex11();
                                              //ex11.Executar();
 
-                                                 Ex12 ex12= new Ex12();
-                                                 ex12.Executar();
+                                                 //Ex12 ex12= new Ex12();
+                                                 //ex12.Executar();
+                                                 
+                                                     //Ex13 ex13 = new Ex13();
+                                                     //ex13.Executar();
+
+                                                       Ex14 ex14 = new Ex14();
+                                                       ex14.Executar();
                            
 
 
