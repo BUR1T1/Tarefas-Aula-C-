@@ -7,8 +7,8 @@ class Program{
      //Ex01 ex01 = new Ex01();
      //ex01.Exercicio01();
         
-        //Ex02 ex02 = new Ex02();
-        //ex02.Executar();
+         //Ex02 ex02 = new Ex02();
+         //ex02.Executar();
 
              //Ex03 ex03= new Ex03();
              //ex03.Executar();
@@ -43,12 +43,41 @@ class Program{
                                                      //Ex13 ex13 = new Ex13();
                                                      //ex13.Executar();
 
-                                                       //Ex14 ex14 = new Ex14();
-                                                       //ex14.Executar();
+                                                         //Ex14 ex14 = new Ex14();
+                                                         //ex14.Executar();
                                                          
-                                                         Ex15 ex15= new Ex15();
-                                                         ex15.Executar();
-                           
+                                                             //Ex15 ex15= new Ex15();
+                                                             //ex15.Executar();
+    
+         //Ex16 ex16= new Ex16();
+         //ex16.Executar();
+         
+             //Ex17 ex17= new Ex17(); 
+             //ex17.Executar();
+        
+                 //Ex18 ex18= new Ex18();
+                 //ex18.Executar();
+                   
+                     //Ex19 ex19= new Ex19();
+                     //ex19.Executar();
+
+                         //Ex20 ex20 = new Ex20();
+                         //ex20.Executar();
+
+                             //Ex21 ex21= new Ex21();
+                             //ex21.Executar();
+
+                                 //Ex22 ex22 = new Ex22();
+                                 //ex22.Executar();
+
+                                    //Ex23 ex23 = new Ex23();
+                                    //ex23.Executor();
+
+                                         //Ex24 ex24= new Ex24();
+                                         //ex24.Executar();
+
+
+
 
 
 
